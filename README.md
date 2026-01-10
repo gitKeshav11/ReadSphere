@@ -131,14 +131,13 @@ Server will start at:
   <img src="https://contrib.rocks/image?repo=gitKeshav11/FortressFinance" />
 </a>
 
-**Keshav Upadhyay**\
+**Keshav Upadhyay**
 
 ## 📞 Contact
 
 Backend Developer (Java & Spring Boot)
-
-📧 Email: keshavupadhyayje@gmail.com\
-🔗 LinkedIn: https://www.linkedin.com/in/keshavupadhyayje/\
+📧 Email: keshavupadhyayje@gmail.com
+🔗 LinkedIn: https://www.linkedin.com/in/keshavupadhyayje/
 🐙 GitHub: https://github.com/gitKeshav11
 
 ------------------------------------------------------------------------
