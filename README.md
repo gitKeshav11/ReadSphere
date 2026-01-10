@@ -1,92 +1,108 @@
+# 📚 ReadSphere
 
-### 🌐 Smart Library Management Backend System
-
-`<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&center=true&vCenter=true&width=800&lines=Smart+Library+Management+System;Java+%7C+Spring+Boot+%7C+REST+APIs;Fast+%2C+Secure+%26+Scalable+Backend" />`{=html}
-
-`<br/>`{=html}
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Spring
-Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![REST
-API](https://img.shields.io/badge/REST-API-blue?style=for-the-badge)
-![MySQL](https://img.shields.io/badge/MySQL-Database-blue?style=for-the-badge&logo=mysql&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-Repo-black?style=for-the-badge&logo=github)
-:::
+## Smart Library Management Backend System
 
 ------------------------------------------------------------------------
 
-## ✨ Project Description
+## 📖 About the Project
 
-**ReadSphere** is a modern, scalable, and efficient **Library Management
-Backend System** built to digitize and automate library operations.\
-It provides a clean **RESTful backend architecture** for managing books,
-users, and transactions with speed and reliability.
+**ReadSphere** is a robust, scalable, and efficient **Library Management
+Backend System** designed to digitize and automate traditional library
+operations.\
+The project focuses on providing a clean backend architecture to manage
+books, users, and transactions using RESTful APIs.
 
-🎯 **Objective:**\
-To transform traditional library management into a **secure,
-centralized, and digital solution**.
+It is ideal for **college projects**, **backend practice**, and
+**real-world library systems** where performance, clarity, and
+scalability are important.
 
 ------------------------------------------------------------------------
 
-## 🚀 Key Features
+## 🎯 Objectives
 
-✔️ Book Management (Add, Update, Delete, Search)\
-✔️ User / Member Management\
-✔️ Issue & Return Tracking\
-✔️ RESTful API Architecture\
-✔️ Clean & Layered Code Structure\
-✔️ Scalable Backend Design
+-   Digitize library operations
+-   Reduce manual record keeping
+-   Provide fast and reliable data access
+-   Build a scalable backend architecture
+-   Follow industry-standard coding practices
+
+------------------------------------------------------------------------
+
+## 🚀 Features
+
+-   📘 Book Management
+    -   Add new books\
+    -   Update book details\
+    -   Delete books\
+    -   Search books
+-   👤 User / Member Management
+    -   Register members\
+    -   Manage user records
+-   🔄 Issue & Return System
+    -   Track issued books\
+    -   Maintain return history
+-   🌐 RESTful APIs\
+-   🧩 Layered Architecture (Controller, Service, Repository)\
+-   🗄️ Database Integration
 
 ------------------------------------------------------------------------
 
 ## 🛠️ Tech Stack
 
-  Technology         Usage
-  ------------------ ------------------------------
-  **Java**           Backend Language
-  **Spring Boot**    Application Framework
-  **REST APIs**      Client--Server Communication
-  **MySQL**          Database
-  **Maven**          Dependency Management
-  **Git & GitHub**   Version Control
+  Technology     Purpose
+  -------------- ------------------------------
+  Java           Backend programming
+  Spring Boot    Application framework
+  REST APIs      Client--server communication
+  MySQL          Database
+  Maven          Dependency management
+  Git & GitHub   Version control
 
 ------------------------------------------------------------------------
 
-## 🏗️ Project Architecture
+## 🏗️ Project Structure
 
     ReadSphere
     │
-    ├── controller   → API Endpoints
-    ├── service      → Business Logic
-    ├── repository   → Database Layer
-    ├── entity/model → Database Entities
-    ├── config       → Configuration Files
+    ├── controller
+    │   └── Handles all API requests
+    │
+    ├── service
+    │   └── Contains business logic
+    │
+    ├── repository
+    │   └── Handles database operations
+    │
+    ├── entity / model
+    │   └── Database entities
+    │
+    ├── config
+    │   └── Configuration files
+    │
     └── application.properties
 
 ------------------------------------------------------------------------
 
-## 🔄 System Flow
+## 🔄 Application Workflow
 
-::: {align="center"}
-`<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500"/>`{=html}
-:::
-
-**Flow:**\
-Client ➝ Controller ➝ Service ➝ Repository ➝ Database ➝ Response
+1.  Client sends a request\
+2.  Controller receives the request\
+3.  Service layer processes business logic\
+4.  Repository interacts with database\
+5.  Response is sent back to client
 
 ------------------------------------------------------------------------
 
 ## ⚙️ How to Run the Project
 
-### 🔹 Prerequisites
+### Prerequisites
 
--   Java JDK 11+
--   Maven
--   MySQL
+-   Java JDK 11 or higher\
+-   Maven\
+-   MySQL\
 -   Git
 
-### 🔹 Clone & Run
+### Steps
 
 ``` bash
 git clone https://github.com/gitKeshav11/ReadSphere.git
@@ -94,33 +110,40 @@ cd ReadSphere
 mvn spring-boot:run
 ```
 
-🚀 Server will start at:
+Server will start at:
 
     http://localhost:8080
 
 ------------------------------------------------------------------------
 
-## 📈 Future Enhancements
+## 📈 Future Scope
 
-🔐 JWT Authentication & Authorization\
-📊 Admin Dashboard\
-📘 Book Recommendation System\
-☁️ Cloud Deployment\
-🎨 Frontend Integration (React / Angular)
+-   JWT Authentication & Authorization
+-   Role-based access (Admin / User)
+-   Advanced search & filtering
+-   Frontend integration (React / Angular)
+-   Cloud deployment
 
 ------------------------------------------------------------------------
 
-## 👨‍💻 Author & Contact
+## 👨‍💻 Author
+<a href="https://github.com/gitKeshav11/FortressFinance/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=gitKeshav11/FortressFinance" />
+</a>
 
 **Keshav Upadhyay**\
-💼 Backend Developer \| Java \| Spring Boot
 
-📧 Email: <keshavupadhyayje@gmail.com>\
-🔗 LinkedIn:
-[keshavupadhyayje](https://www.linkedin.com/in/keshavupadhyayje/)\
-🐙 GitHub: [gitKeshav11](https://github.com/gitKeshav11)
+## 📞 Contact
+
+Backend Developer (Java & Spring Boot)
+
+📧 Email: keshavupadhyayje@gmail.com\
+🔗 LinkedIn: https://www.linkedin.com/in/keshavupadhyayje/\
+🐙 GitHub: https://github.com/gitKeshav11
 
 ------------------------------------------------------------------------
-### ⭐ If you like this project, give it a star ⭐
 
-### 🚀 Happy Coding!
+## ⭐ Support
+
+If you find this project helpful, please consider giving it a ⭐ on
+GitHub.
