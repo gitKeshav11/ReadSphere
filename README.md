@@ -144,11 +144,9 @@ Backend Developer (Java & Spring Boot)
 
 🐙 GitHub: https://github.com/gitKeshav11
 
-.
 ------------------------------------------------------------------------
 
 ## ⭐ Support
 
 If you find this project helpful, please consider giving it a ⭐ on
 GitHub.
-.
