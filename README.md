@@ -149,4 +149,4 @@ Backend Developer (Java & Spring Boot)
 ## ⭐ Support
 
 If you find this project helpful, please consider giving it a ⭐ on
-GitHub.....
+GitHub
